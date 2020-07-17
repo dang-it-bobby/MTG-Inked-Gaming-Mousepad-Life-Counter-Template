@@ -10,4 +10,6 @@ Feel free to edit or do whatever you want with the files.
 * Click the green "Code" button
 * Click download zip
 
+You can use [this site](https://www.rgb2cmyk.org/) to get a good idea of what the final product will look like, since they use a CMYK printer to print the mousepad out
+
 Happy gaming!
