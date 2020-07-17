@@ -7,7 +7,7 @@ Feel free to edit or do whatever you want with the files.
 
 ## To Download
 
-* Click the green "Clone" button
+* Click the green "Code" button
 * Click download zip
 
 Happy gaming!
