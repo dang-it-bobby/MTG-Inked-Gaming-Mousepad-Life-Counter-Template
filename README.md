@@ -5,4 +5,9 @@ The template I started off with is the one for [Inked Gaming's Custom Classic 9x
 
 Feel free to edit or do whatever you want with the files.
 
+## To Download
+
+* Click the green "Clone" button
+* Click download zip
+
 Happy gaming!
